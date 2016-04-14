@@ -1,0 +1,59 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>200px-Peach_FS.png</file>
+        <file>Block_or.png</file>
+        <file>Peach_dress.png</file>
+        <file>Peach_dressL.png</file>
+        <file>Peach_dressR.png</file>
+        <file>upR.png</file>
+        <file>upV.png</file>
+        <file>Goomba.png</file>
+        <file>peachHit.png</file>
+        <file>coin.png</file>
+        <file>clouds.jpg</file>
+        <file>heart.png</file>
+        <file>flammeL.png</file>
+        <file>flammeR.png</file>
+        <file>PlantePiranhaL.png</file>
+        <file>PlantePiranhaR.png</file>
+        <file>goombaL_1.png</file>
+        <file>goombaL_2.png</file>
+        <file>goombaL_3.png</file>
+        <file>goombaL_4.png</file>
+        <file>goombaL_5.png</file>
+        <file>goombaR_1.png</file>
+        <file>goombaR_2.png</file>
+        <file>goombaR_3.png</file>
+        <file>goombaR_4.png</file>
+        <file>goombaR_5.png</file>
+        <file>Block_marron.png</file>
+        <file>flammeL2.png</file>
+        <file>flammeR2.png</file>
+        <file>mario.png</file>
+        <file>peachIsOnFire.png</file>
+        <file>tuyau.png</file>
+        <file>turtleL_1.png</file>
+        <file>turtleL_2.png</file>
+        <file>turtleL_3.png</file>
+        <file>turtleL_4.png</file>
+        <file>turtleL_5.png</file>
+        <file>turtleL_hide.png</file>
+        <file>turtleR_1.png</file>
+        <file>turtleR_2.png</file>
+        <file>turtleR_3.png</file>
+        <file>turtleR_4.png</file>
+        <file>turtleR_5.png</file>
+        <file>turtleR_hide.png</file>
+    </qresource>
+    <qresource prefix="/decors">
+        <file>Decor1.txt</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Coin.wav</file>
+        <file>Lightning.wav</file>
+        <file>Ouh.. Mamma mia.wav</file>
+        <file>peachHit.wav</file>
+        <file>peach03.wav</file>
+        <file>peach15.wav</file>
+    </qresource>
+</RCC>
